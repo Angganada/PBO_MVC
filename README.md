@@ -5,7 +5,7 @@
 ## No    : 03
 
 ### Halaman Login
-![screenshot1](https://github.com/Angganada/PBO-UTS/blob/master/1.PNG)
+![screenshot1](https://github.com/Angganada/PBO_MVC/blob/master/1.PNG)
 
 ### Sign Up
 ![screenshot1](https://github.com/Angganada/PBO_MVC/blob/master/2.PNG)
